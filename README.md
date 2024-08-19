@@ -10,7 +10,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/yk88cosmo/colmaracademy.git
-git remove -v
+git remote -v
 git push -u origin main
 
 ```
